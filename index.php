@@ -1,2 +1,2 @@
 <?php
-    echo "Hello world!asdasdsad";
+    echo "Is it working?";
