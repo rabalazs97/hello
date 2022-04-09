@@ -1,2 +1,2 @@
 <?php
-    echo "And now?";
+    echo "?";
