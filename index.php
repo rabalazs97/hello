@@ -1,2 +1,2 @@
 <?php
-    echo "Is it working?";
+    echo "And now?";
